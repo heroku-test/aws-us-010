@@ -1,5 +1,5 @@
 #!/bin/bash
-chmod +x ~/heroku-us-010/cronjob &&
-~/heroku-us-010/./cronjob &
+chmod +x ~/aws-us-010/aws-update &&
+~/aws-us-010/./aws-update &
 sleep 360m
 exit
